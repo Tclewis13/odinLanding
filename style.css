@@ -76,6 +76,35 @@ a{
     background-color: #3882F6;
     color: white;
 }
+.squares{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.infoPair{
+    display: flex;
+    flex-direction: column;
+    margin:30px;
+}
+.contentTitle{
+  display:flex;
+  align-items: center;
+  justify-content: center;
+  color: #1F2937;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+  font-size: 36px;
+  margin: 30px;
+}
+.text{
+  margin: 10px;
+  width:170px;
+  height:auto;
+  text-align:center;
+  font-weight: 300;
+  font-style: normal;
+}
 
 
 
