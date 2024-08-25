@@ -48,6 +48,7 @@ a{
     flex-direction: column;
     margin: 50px;
     margin-left: 98px;
+    margin-bottom: 100px;
     width:420px;
     height:auto;
 }
@@ -84,7 +85,8 @@ a{
 .infoPair{
     display: flex;
     flex-direction: column;
-    margin:30px;
+    margin:50px;
+    margin-bottom: 130px;
 }
 .contentTitle{
   display:flex;
